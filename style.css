@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {font-family: Source Sans Pro;}
+       
+input[type=text], input[type=password] {
+    width: 30%;
+    padding: 12px 20px;
+    background-color: #ebeff0;
+    color: rgb(10, 10, 10);
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;   
+}
+
+
+
+.Login-heading {  
+padding: 50px;  
+background-color: lightblue;  
+} 
